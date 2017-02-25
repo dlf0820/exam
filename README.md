@@ -1,3 +1,3 @@
 # exam
-huawei exam_test
+exam_test
 start_merge
