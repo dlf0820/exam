@@ -1,0 +1,36 @@
+﻿  main.cpp
+  CExampleTest.cpp
+  Linker.cpp
+  正在生成代码...
+  LINK : 没有找到 C:\Users\he4\Desktop\exam_test\Linker\project\Debug\Linker.exe 或上一个增量链接没有生成它；正在执行完全链接
+cppunitd.lib(Asserter.obj) : warning LNK4099: 未找到 PDB“cppunit.pdb”(使用“cppunitd.lib(Asserter.obj)”或在“C:\Users\he4\Desktop\exam_test\Linker\project\Debug\cppunit.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cppunitd.lib(BriefTestProgressListener.obj) : warning LNK4099: 未找到 PDB“cppunit.pdb”(使用“cppunitd.lib(BriefTestProgressListener.obj)”或在“C:\Users\he4\Desktop\exam_test\Linker\project\Debug\cppunit.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cppunitd.lib(DefaultProtector.obj) : warning LNK4099: 未找到 PDB“cppunit.pdb”(使用“cppunitd.lib(DefaultProtector.obj)”或在“C:\Users\he4\Desktop\exam_test\Linker\project\Debug\cppunit.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cppunitd.lib(Exception.obj) : warning LNK4099: 未找到 PDB“cppunit.pdb”(使用“cppunitd.lib(Exception.obj)”或在“C:\Users\he4\Desktop\exam_test\Linker\project\Debug\cppunit.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cppunitd.lib(Message.obj) : warning LNK4099: 未找到 PDB“cppunit.pdb”(使用“cppunitd.lib(Message.obj)”或在“C:\Users\he4\Desktop\exam_test\Linker\project\Debug\cppunit.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cppunitd.lib(Protector.obj) : warning LNK4099: 未找到 PDB“cppunit.pdb”(使用“cppunitd.lib(Protector.obj)”或在“C:\Users\he4\Desktop\exam_test\Linker\project\Debug\cppunit.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cppunitd.lib(ProtectorChain.obj) : warning LNK4099: 未找到 PDB“cppunit.pdb”(使用“cppunitd.lib(ProtectorChain.obj)”或在“C:\Users\he4\Desktop\exam_test\Linker\project\Debug\cppunit.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cppunitd.lib(SourceLine.obj) : warning LNK4099: 未找到 PDB“cppunit.pdb”(使用“cppunitd.lib(SourceLine.obj)”或在“C:\Users\he4\Desktop\exam_test\Linker\project\Debug\cppunit.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cppunitd.lib(StringTools.obj) : warning LNK4099: 未找到 PDB“cppunit.pdb”(使用“cppunitd.lib(StringTools.obj)”或在“C:\Users\he4\Desktop\exam_test\Linker\project\Debug\cppunit.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cppunitd.lib(SynchronizedObject.obj) : warning LNK4099: 未找到 PDB“cppunit.pdb”(使用“cppunitd.lib(SynchronizedObject.obj)”或在“C:\Users\he4\Desktop\exam_test\Linker\project\Debug\cppunit.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cppunitd.lib(Test.obj) : warning LNK4099: 未找到 PDB“cppunit.pdb”(使用“cppunitd.lib(Test.obj)”或在“C:\Users\he4\Desktop\exam_test\Linker\project\Debug\cppunit.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cppunitd.lib(TestCase.obj) : warning LNK4099: 未找到 PDB“cppunit.pdb”(使用“cppunitd.lib(TestCase.obj)”或在“C:\Users\he4\Desktop\exam_test\Linker\project\Debug\cppunit.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cppunitd.lib(TestComposite.obj) : warning LNK4099: 未找到 PDB“cppunit.pdb”(使用“cppunitd.lib(TestComposite.obj)”或在“C:\Users\he4\Desktop\exam_test\Linker\project\Debug\cppunit.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cppunitd.lib(TestFactoryRegistry.obj) : warning LNK4099: 未找到 PDB“cppunit.pdb”(使用“cppunitd.lib(TestFactoryRegistry.obj)”或在“C:\Users\he4\Desktop\exam_test\Linker\project\Debug\cppunit.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cppunitd.lib(TestFailure.obj) : warning LNK4099: 未找到 PDB“cppunit.pdb”(使用“cppunitd.lib(TestFailure.obj)”或在“C:\Users\he4\Desktop\exam_test\Linker\project\Debug\cppunit.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cppunitd.lib(TestLeaf.obj) : warning LNK4099: 未找到 PDB“cppunit.pdb”(使用“cppunitd.lib(TestLeaf.obj)”或在“C:\Users\he4\Desktop\exam_test\Linker\project\Debug\cppunit.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cppunitd.lib(TestNamer.obj) : warning LNK4099: 未找到 PDB“cppunit.pdb”(使用“cppunitd.lib(TestNamer.obj)”或在“C:\Users\he4\Desktop\exam_test\Linker\project\Debug\cppunit.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cppunitd.lib(TestPath.obj) : warning LNK4099: 未找到 PDB“cppunit.pdb”(使用“cppunitd.lib(TestPath.obj)”或在“C:\Users\he4\Desktop\exam_test\Linker\project\Debug\cppunit.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cppunitd.lib(TestResult.obj) : warning LNK4099: 未找到 PDB“cppunit.pdb”(使用“cppunitd.lib(TestResult.obj)”或在“C:\Users\he4\Desktop\exam_test\Linker\project\Debug\cppunit.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cppunitd.lib(TestResultCollector.obj) : warning LNK4099: 未找到 PDB“cppunit.pdb”(使用“cppunitd.lib(TestResultCollector.obj)”或在“C:\Users\he4\Desktop\exam_test\Linker\project\Debug\cppunit.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cppunitd.lib(TestRunner.obj) : warning LNK4099: 未找到 PDB“cppunit.pdb”(使用“cppunitd.lib(TestRunner.obj)”或在“C:\Users\he4\Desktop\exam_test\Linker\project\Debug\cppunit.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cppunitd.lib(TestSuccessListener.obj) : warning LNK4099: 未找到 PDB“cppunit.pdb”(使用“cppunitd.lib(TestSuccessListener.obj)”或在“C:\Users\he4\Desktop\exam_test\Linker\project\Debug\cppunit.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cppunitd.lib(TestSuite.obj) : warning LNK4099: 未找到 PDB“cppunit.pdb”(使用“cppunitd.lib(TestSuite.obj)”或在“C:\Users\he4\Desktop\exam_test\Linker\project\Debug\cppunit.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cppunitd.lib(TestSuiteBuilderContext.obj) : warning LNK4099: 未找到 PDB“cppunit.pdb”(使用“cppunitd.lib(TestSuiteBuilderContext.obj)”或在“C:\Users\he4\Desktop\exam_test\Linker\project\Debug\cppunit.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cppunitd.lib(TextOutputter.obj) : warning LNK4099: 未找到 PDB“cppunit.pdb”(使用“cppunitd.lib(TextOutputter.obj)”或在“C:\Users\he4\Desktop\exam_test\Linker\project\Debug\cppunit.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cppunitd.lib(TypeInfoHelper.obj) : warning LNK4099: 未找到 PDB“cppunit.pdb”(使用“cppunitd.lib(TypeInfoHelper.obj)”或在“C:\Users\he4\Desktop\exam_test\Linker\project\Debug\cppunit.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cppunitd.lib(XmlDocument.obj) : warning LNK4099: 未找到 PDB“cppunit.pdb”(使用“cppunitd.lib(XmlDocument.obj)”或在“C:\Users\he4\Desktop\exam_test\Linker\project\Debug\cppunit.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cppunitd.lib(XmlElement.obj) : warning LNK4099: 未找到 PDB“cppunit.pdb”(使用“cppunitd.lib(XmlElement.obj)”或在“C:\Users\he4\Desktop\exam_test\Linker\project\Debug\cppunit.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+cppunitd.lib(XmlOutputter.obj) : warning LNK4099: 未找到 PDB“cppunit.pdb”(使用“cppunitd.lib(XmlOutputter.obj)”或在“C:\Users\he4\Desktop\exam_test\Linker\project\Debug\cppunit.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  Linker.vcxproj -> C:\Users\he4\Desktop\exam_test\Linker\project\Debug\Linker.exe
+  Linker.vcxproj -> C:\Users\he4\Desktop\exam_test\Linker\project\Debug\Linker.pdb (Full PDB)
